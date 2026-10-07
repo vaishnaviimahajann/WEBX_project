@@ -102,6 +102,3 @@ JWT_SECRET=your_secret_key
 PORT=5000
 ```
 
----
-
-© 2026 SkillSync
