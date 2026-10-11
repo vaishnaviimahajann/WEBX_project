@@ -2,8 +2,6 @@
 
 > College students ko skill-based teammates dhundhne ka platform
 
----
-
 ## 📁 Project Structure (6 Files)
 
 ```
