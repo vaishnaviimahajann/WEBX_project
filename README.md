@@ -99,4 +99,4 @@ MONGO_URI=mongodb://localhost:27017/skillsync
 JWT_SECRET=your_secret_key
 PORT=5000
 ```
-
+@vaishnaviimahajann
